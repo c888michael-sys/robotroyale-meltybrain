@@ -28,5 +28,7 @@ building/
 ## Research
 
 - [Meltybrain and translational-drift project survey](research/code/meltybrain-project-survey.md)
+- [Parts research checklist and summary](research/parts/README.md)
+- [Complete component inventory](research/parts/meltybrain-component-inventory.md)
 
 Folders awaiting content contain a `.gitkeep` placeholder.
