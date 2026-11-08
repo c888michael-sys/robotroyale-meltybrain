@@ -1,0 +1,22 @@
+{
+  "assumptions": {
+    "mass_kg": 0.005,
+    "radius_m": 0.03,
+    "rpm": 4000
+  },
+  "omega_rad_s": 418.87902047863906,
+  "acceleration_m_s2": 5263.789013914323,
+  "acceleration_g": 536.7570999183537,
+  "force_N": 26.318945069571615,
+  "equivalent_kgf": 2.6837854995917687,
+  "moment_N_m_at_4mm_offset": 0.10527578027828646,
+  "force_at_2000rpm_N": 6.579736267392904,
+  "force_at_8000rpm_N": 105.27578027828646,
+  "sensor_radius_example": {
+    "nominal_m": 0.01,
+    "outward_shift_m": 0.0001,
+    "estimated_rate_ratio": 1.004987562112089,
+    "fractional_error": 0.00498756211208895,
+    "heading_error_deg_s_at_4000rpm": 119.7014906901348
+  }
+}
