@@ -9,6 +9,7 @@ research/
   code/                  # Firmware, control methods, and project surveys
   parts/                 # Component research
   chassis/               # Chassis research
+  connection-methods/    # Wiring, joints, mounting, and retention research
 
 decision/
   code/                  # Software decisions
@@ -30,5 +31,6 @@ building/
 - [Meltybrain and translational-drift project survey](research/code/meltybrain-project-survey.md)
 - [Parts research checklist and summary](research/parts/README.md)
 - [Complete component inventory](research/parts/meltybrain-component-inventory.md)
+- [Connection methods and retention research](research/connection-methods/README.md)
 
 Folders awaiting content contain a `.gitkeep` placeholder.
